@@ -94,6 +94,4 @@ Respuesta del chatbot:
 
 - Este proyecto está disponible bajo licencia MIT.
 
-🙌 Créditos
-
---- Proyecto desarrollado por [Álvaro García Velasco](https://github.com/alvaroG-IA)
+🙌 Créditos: Proyecto desarrollado por [Álvaro García Velasco](https://github.com/alvaroG-IA)
