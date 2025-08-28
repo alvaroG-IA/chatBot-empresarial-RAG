@@ -82,19 +82,18 @@ Respuesta del chatbot:
 
 🔮 Posibles mejoras
 
-Integrar autenticación para usuarios internos.
+- Integrar autenticación para usuarios internos.
 
-Añadir soporte a más formatos de documentos (Word, Excel).
+- Añadir soporte a más formatos de documentos (Word, Excel).
 
-Reemplazar Streamlit por FastAPI para integraciones en Slack o MS Teams.
+- Reemplazar Streamlit por FastAPI para integraciones en Slack o MS Teams.
 
-Usar vectores híbridos (BM25 + embeddings).
+- Usar vectores híbridos (BM25 + embeddings).
 
 📜 Licencia
 
-Este proyecto está disponible bajo licencia MIT.
+- Este proyecto está disponible bajo licencia MIT.
 
 🙌 Créditos
 
-Proyecto desarrollado por Álvaro García Velasco
-.
+--- Proyecto desarrollado por Álvaro García Velasco ---
