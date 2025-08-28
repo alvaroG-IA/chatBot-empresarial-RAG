@@ -8,9 +8,9 @@ Construido con LangChain, OpenAI, FAISS y Streamlit.
 
 - Búsqueda semántica en documentos internos (PDF, TXT, etc.).
 
-- Generación de respuestas con LLM (GPT u otro).
+- Generación de respuestas con LLM ([NOMBRE MODELO QUE USE]).
 
-- Recuperación de contexto preciso mediante FAISS.
+- Recuperación de contexto preciso mediante FAISS [EN ALGUN PUNTO EXPLICAR].
 
 - Interfaz web sencilla con Streamlit.
 
@@ -56,7 +56,7 @@ cp .env.example .env
 
 Edita .env y añade:
 
-`OPENAI_API_KEY=tu_api_key_aqui`
+`MODEL_API_KEY=tu_api_key_aqui`
 
 ---
 
