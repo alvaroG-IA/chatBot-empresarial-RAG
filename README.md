@@ -18,7 +18,7 @@ Construido con LangChain, OpenAI, FAISS y Streamlit.
 
 --- 
 
-## 📂 Estructura del proyecto
+## 📂 Estructura del proyecto
 ```
 chatbot-rag-empresarial/
 │
