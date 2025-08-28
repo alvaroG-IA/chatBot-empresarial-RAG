@@ -1,5 +1,4 @@
-# chatBot-empresarial-RAG
-🤖 Chatbot RAG Empresarial
+# 🤖 Chatbot RAG Empresarial
 
 Un asistente de Recursos Humanos basado en RAG (Retrieval-Augmented Generation) que responde preguntas sobre documentos internos de la empresa (manuales, políticas, FAQs).
 
