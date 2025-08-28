@@ -4,7 +4,7 @@ Un asistente de Recursos Humanos basado en RAG (Retrieval-Augmented Generation) 
 
 Construido con LangChain, OpenAI, FAISS y Streamlit.
 
-##✨ Características
+## ✨ Características
 
 - Búsqueda semántica en documentos internos (PDF, TXT, etc.).
 
@@ -35,7 +35,7 @@ chatbot-rag-empresarial/
 ```
 ---
 
-##🚀 Instalación
+## 🚀 Instalación
 
 Clona el repositorio:
 
@@ -60,7 +60,7 @@ Edita .env y añade:
 
 ---
 
-##▶️ Uso
+## ▶️ Uso
 
 Ingestar documentos y crear la base vectorial:
 
@@ -77,7 +77,7 @@ Abre el navegador en:
 
 ---
 
-##📊 Ejemplo de interacción
+## 📊 Ejemplo de interacción
 
 Pregunta:
 "¿Cuántos días de vacaciones tiene un empleado al año?"
@@ -87,7 +87,7 @@ Respuesta del chatbot:
 
 ---
 
-## 🔮 Posibles mejoras
+## 🔮 Posibles mejoras
 
 - Integrar autenticación para usuarios internos.
 
@@ -99,7 +99,7 @@ Respuesta del chatbot:
 
 ---
 
-## 📜 Licencia
+## 📜 Licencia
 
 - Este proyecto está disponible bajo licencia MIT.
 
