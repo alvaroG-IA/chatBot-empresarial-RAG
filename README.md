@@ -4,19 +4,21 @@ Un asistente de Recursos Humanos basado en RAG (Retrieval-Augmented Generation) 
 
 Construido con LangChain, OpenAI, FAISS y Streamlit.
 
-✨ Características
+## ✨ Características
 
-Búsqueda semántica en documentos internos (PDF, TXT, etc.).
+- Búsqueda semántica en documentos internos (PDF, TXT, etc.).
 
-Generación de respuestas con LLM (GPT u otro).
+- Generación de respuestas con LLM (GPT u otro).
 
-Recuperación de contexto preciso mediante FAISS.
+- Recuperación de contexto preciso mediante FAISS.
 
-Interfaz web sencilla con Streamlit.
+- Interfaz web sencilla con Streamlit.
 
-Arquitectura modular, fácil de ampliar a otros departamentos o casos de uso.
+- Arquitectura modular, fácil de ampliar a otros departamentos o casos de uso.
 
-📂 Estructura del proyecto
+--- 
+
+## 📂 Estructura del proyecto
 ```
 chatbot-rag-empresarial/
 │
@@ -32,7 +34,7 @@ chatbot-rag-empresarial/
 └── README.md        # Documentación
 ```
 
-🚀 Instalación
+## 🚀 Instalación
 
 Clona el repositorio:
 
@@ -56,7 +58,7 @@ Edita .env y añade:
 
 `OPENAI_API_KEY=tu_api_key_aqui`
 
-▶️ Uso
+## ▶️ Uso
 
 Ingestar documentos y crear la base vectorial:
 
@@ -71,7 +73,9 @@ Ejecutar el chatbot en interfaz web:
 Abre el navegador en:
 👉 http://localhost:8501
 
-📊 Ejemplo de interacción
+---
+
+## 📊 Ejemplo de interacción
 
 Pregunta:
 "¿Cuántos días de vacaciones tiene un empleado al año?"
@@ -79,7 +83,9 @@ Pregunta:
 Respuesta del chatbot:
 "Según la política de RRHH, cada empleado tiene derecho a 23 días laborables de vacaciones al año."
 
-🔮 Posibles mejoras
+---
+
+## 🔮 Posibles mejoras
 
 - Integrar autenticación para usuarios internos.
 
@@ -89,8 +95,12 @@ Respuesta del chatbot:
 
 - Usar vectores híbridos (BM25 + embeddings).
 
-📜 Licencia
+---
+
+## 📜 Licencia
 
 - Este proyecto está disponible bajo licencia MIT.
+
+---
 
 🙌 Créditos: Proyecto desarrollado por [Álvaro García Velasco](https://github.com/alvaroG-IA)
