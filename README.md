@@ -18,6 +18,7 @@ Interfaz web sencilla con Streamlit.
 Arquitectura modular, fácil de ampliar a otros departamentos o casos de uso.
 
 📂 Estructura del proyecto
+```
 chatbot-rag-empresarial/
 │
 ├── data/            # Documentos internos de la empresa
@@ -30,39 +31,42 @@ chatbot-rag-empresarial/
 ├── requirements.txt # Dependencias
 ├── .env.example     # Variables de entorno
 └── README.md        # Documentación
+```
 
 🚀 Instalación
 
 Clona el repositorio:
 
+```
 git clone https://github.com/usuario/chatbot-rag-empresarial.git
 cd chatbot-rag-empresarial
+```
 
 
 Instala dependencias:
-
+```
 pip install -r requirements.txt
-
+```
 
 Configura tu API key en .env:
-
+```
 cp .env.example .env
-
+```
 
 Edita .env y añade:
 
-OPENAI_API_KEY=tu_api_key_aqui
+`OPENAI_API_KEY=tu_api_key_aqui`
 
 ▶️ Uso
 
 Ingestar documentos y crear la base vectorial:
 
-python src/ingest.py
+`python src/ingest.py`
 
 
 Ejecutar el chatbot en interfaz web:
 
-streamlit run src/app.py
+`streamlit run src/app.py`
 
 
 Abre el navegador en:
