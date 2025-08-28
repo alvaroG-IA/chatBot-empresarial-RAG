@@ -96,4 +96,4 @@ Respuesta del chatbot:
 
 🙌 Créditos
 
---- Proyecto desarrollado por @alvaroG-IA [Álvaro García Velasco]
+--- Proyecto desarrollado por [Álvaro García Velasco](https://github.com/alvaroG-IA)
