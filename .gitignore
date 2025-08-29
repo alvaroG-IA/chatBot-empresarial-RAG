@@ -1,0 +1,31 @@
+# Entornos virtuales
+.venv/
+venv/
+ENV/
+
+# Archivos de dependencias compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de editores/IDEs
+.vscode/
+.idea/
+*.swp
+
+# Bases de datos y almacenamiento temporal
+vectorstore/
+*.db
+*.sqlite3
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Entornos Jupyter
+.ipynb_checkpoints/
+
