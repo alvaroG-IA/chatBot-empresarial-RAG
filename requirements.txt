@@ -1,1 +1,24 @@
-python 3.9
+# Framework principal
+langchain==0.0.350
+
+# Embeddings
+sentence-transformers==2.2.2
+transformers==4.41.2
+torch>=2.0.0
+
+# Vectorstore
+faiss-cpu>=1.8.0
+
+# Utilidades
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Interfaz web
+streamlit==1.36.0
+
+# Lectura de documentos (opcional, si cargas PDFs o DOCX en el futuro)
+pypdf2==3.0.1
+
+# Para gestionar variables de entorno (API keys si quisieras usar un modelo externo)
+python-dotenv==1.0.1
+
